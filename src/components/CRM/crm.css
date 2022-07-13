@@ -1,0 +1,17 @@
+.card{
+    border-radius: 30px;
+    width: 350px;
+    height:350px ;
+}
+.card-title{
+    color: #120155;
+}
+.card-img-top{
+   width: 60px;
+   height: 60px;
+}
+.card img {
+    margin-left: 20px;
+    margin-top: 20px;
+
+}

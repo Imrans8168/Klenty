@@ -1,0 +1,17 @@
+.btncustomcss{
+    background-color: #5856CE;
+    margin-left: 10px;
+}
+.btnschedule{
+    background-color: white;
+    border: 1px solid #5856CE;
+    color: #5856CE;
+}
+.btnlogin{
+    margin-left: 10px; 
+}
+.nav-item span{
+    font-weight: 600;
+    size: 16px;
+    color:#05034E;
+}

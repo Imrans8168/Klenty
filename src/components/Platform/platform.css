@@ -1,0 +1,29 @@
+.top-section{
+    margin-top: 90px;
+    
+}
+.crmblue{
+    color: #5856CE;
+}
+
+.btnget{
+    background-color:  #5856CE;;
+    border: none;
+    color: white;
+}
+.imghome{
+    width: 100%;
+    height: 100%;
+    position: relative;
+}
+.crmHeading{
+    color: #120155;
+    font-size: 40px;
+}
+.crmpara{
+    font-size: 18px;
+    color: #343434;
+}
+.crm-content{
+    margin-bottom: auto;
+}
