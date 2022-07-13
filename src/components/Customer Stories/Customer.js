@@ -52,7 +52,7 @@ const Customer = () => {
           {
             data.map((user=>(
               <SwiperSlide key={user.id}>
-              <img className='double' src="./Images/vector.png"/>
+              <img className='double' src="./Images/Vector.png"/>
               <div className='testomonial'>{user.testomonial}</div>
               <div className="col-md-4 text-left mt-3" >
 
